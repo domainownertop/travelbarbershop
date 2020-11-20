@@ -3,12 +3,15 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
-  - name: Aprendiz
-    price: 7 €
+  - name: Maestro
+    price: 10 €
     unit: ''
     services:
-    - Recorte de Barba sin navaja
-    button: ''
+    - Recorte de barba con navaja
+    - Ritual con toallas
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: Niños
     price: 8 €
     unit: ''
@@ -53,3 +56,9 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
+  - name: Aprendiz
+    price: 7 €
+    unit: ''
+    services:
+    - Recorte de Barba sin navaja
+    button: ''
