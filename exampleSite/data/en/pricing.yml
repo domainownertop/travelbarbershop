@@ -52,6 +52,7 @@ pricing:
     unit: ''
     services:
     - Recorte de Barba sin navaja
+    - "-"
     button:
       label: Pide Cita
       link: "#contact"
