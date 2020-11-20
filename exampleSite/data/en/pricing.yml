@@ -27,8 +27,8 @@ pricing:
     services:
     - Cortar
     - Lavar
-    - Peinar
     - Barba
+    - Peinar
     button:
       label: Pide Cita
       link: "#contact"
