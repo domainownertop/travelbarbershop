@@ -53,7 +53,7 @@ author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.svg"
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
