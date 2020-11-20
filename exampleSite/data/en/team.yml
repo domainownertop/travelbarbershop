@@ -1,12 +1,12 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Nuestro Equipo
   team_member:
-  - name: Abul Mal Muhit
+  - name: Jose Arroyo
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
+    designation: Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
