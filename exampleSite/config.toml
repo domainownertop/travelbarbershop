@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com"
-disableLanguages = []
+baseURL = "https://thetravelbarbershop.com"
+disableLanguages = [fr]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -8,18 +8,11 @@ themesDir = "../.."
 title = "The Travel Barbershop"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.main]]
 name = "about"
 pre = "#"
