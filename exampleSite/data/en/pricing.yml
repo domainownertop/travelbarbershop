@@ -19,6 +19,9 @@ pricing:
     unit: ''
     services:
     - Cortar
+    - "-"
+    - "-"
+    - "-"
     button:
       label: Pide cita
       link: "#contact"
