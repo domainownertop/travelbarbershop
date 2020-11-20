@@ -10,7 +10,7 @@ pricing:
     - Cortar
     button:
       label: Pide cita
-      link: "#"
+      link: "#contact"
   - name: Silver
     price: "$149"
     unit: month
