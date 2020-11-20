@@ -9,7 +9,6 @@ about:
   - icon: ti-cut
     title: Somos Profesionales
     content: Dedicamos nuestro tiempo a atender cada detalle.
-  - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-location-pin
+    title: Somos Agradables
+    content: Cortarse el pelo o afeitarse será toda una experiencia.
