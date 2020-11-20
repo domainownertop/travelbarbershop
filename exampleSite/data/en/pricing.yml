@@ -3,6 +3,17 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
+  - name: Niños
+    price: 8 €
+    unit: ''
+    services:
+    - Cortar
+    - Hasta 8 años
+    - "-"
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: Basico
     price: 10 €
     unit: ''
@@ -29,17 +40,6 @@ pricing:
     - Lavar
     - Barba
     - Peinar
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Niños
-    price: 8 €
-    unit: ''
-    services:
-    - Cortar
-    - Hasta 8 años
-    - "-"
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
