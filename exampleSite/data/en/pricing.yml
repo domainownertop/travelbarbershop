@@ -34,7 +34,7 @@ pricing:
       link: "#contact"
   - name: Niños
     price: 8 €
-    unit: month
+    unit: ''
     services:
     - Cortar
     - Hasta 8 años
