@@ -11,10 +11,8 @@ contact:
     info: Carrer de Joan Molins Parera 37. Mercado Municipal. Pallejà
   - icon: ti-mobile
     info: 'Whatsapp: 661.70.26.07'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: hola@thetravelbarbershop.com'
   contact_form:
     enable: true
     form_action: "#"
