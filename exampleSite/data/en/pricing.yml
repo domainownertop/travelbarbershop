@@ -3,6 +3,15 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
+  - name: Mascarilla
+    price: 15 €
+    unit: ''
+    services:
+    - Piling Facial
+    - Solo con cita previa
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: Niños
     price: 8 €
     unit: ''
