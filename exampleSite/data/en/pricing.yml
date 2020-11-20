@@ -32,6 +32,7 @@ pricing:
     - Cortar
     - Lavar
     - Peinar
+    - "-"
     button:
       label: Pide Cita
       link: "#contact"
