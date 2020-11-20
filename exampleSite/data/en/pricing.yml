@@ -3,6 +3,12 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
+  - name: Aprendiz
+    price: 7 €
+    unit: ''
+    services:
+    - Recorte de Barba sin navaja
+    button: ''
   - name: Niños
     price: 8 €
     unit: ''
