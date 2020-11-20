@@ -21,19 +21,17 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
-  - name: Gold
-    price: "$199"
-    unit: month
+  - name: Top
+    price: 15 €
+    unit: ''
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Cortar
+    - Lavar
+    - Peinar
+    - Barba
     button:
-      label: Signup
-      link: "#"
+      label: Pide Cita
+      link: "#contact"
   - name: Platinum
     price: "$299"
     unit: month
