@@ -13,7 +13,10 @@ contact:
     info: 'Email: thetravelbarbershop@gmail.com'
   contact_form:
     enable: true
-    form_action: mailto:thetravelbarbershop@gmail.com
+    form_action: "<form action=”mailto:thetravelbarbershop@gmail.com”  method=”POST”
+      \ enctype=”multipart/form-data”  name=”Email”>  Name:<br>  <input type=”Message”
+      size=”24″ name=”Name”><br><br>  Message:<br> <textarea name=”Name” rows=”4″
+      cols=”20″>  </textarea><br><br> <input type=”Submit” value=”Message”> </form>"
     name: Nombre
     email: Email
     subject: Asunto
