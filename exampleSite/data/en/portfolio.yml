@@ -10,9 +10,9 @@ portfolio:
     - corte
     content: ''
     link: ''
-  - name: Barba
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: ''
+    image: images/portfolio/portfolio2-img.jpg
+    image_webp: images/portfolio/portfolio2-img.webp
     categories:
     - barba
     content: ''
