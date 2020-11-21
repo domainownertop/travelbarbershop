@@ -58,7 +58,7 @@ pricing:
     button:
       label: Pide cita
       link: "#contact"
-  - name: Maestro
+  - name: Barba
     price: 10 €
     unit: ''
     services:
