@@ -4,11 +4,11 @@ team:
   title: Nuestro Equipo
   team_member:
   - name: Jose Arroyo
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    image_webp: images/team/team1-img.webp
+    image: images/team/team1-img.jpg
+    designation: Experto en Viajes
+    content: Si necesitas un viaje, él es tu hombre. Te ofrecerá el mejor asesoramiento
+      posible.
     social:
     - icon: ti-facebook
       link: "#"
