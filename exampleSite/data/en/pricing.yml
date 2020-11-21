@@ -47,12 +47,12 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
-  - name: Basico
+  - name: Jubilado
     price: 10 €
     unit: ''
     services:
     - Cortar
-    - "-"
+    - Adultos de mas de 65 años
     - "-"
     - "-"
     button:
