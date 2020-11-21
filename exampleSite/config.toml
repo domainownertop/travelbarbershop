@@ -48,7 +48,7 @@ post_share = false
 enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBLJ2UhEbdoCbUkba-IIRPnIvePZUWSY6I"
 map_latitude = "41.420936"
 map_longitude = "1.996629"
