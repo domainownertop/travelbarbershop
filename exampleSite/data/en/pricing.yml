@@ -36,6 +36,17 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
+  - name: Familia
+    price: 18 €
+    unit: ''
+    services:
+    - Corte de Adulto
+    - Corte de niño (hasta 8 años)
+    - "-"
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: Basico
     price: 10 €
     unit: ''
@@ -46,15 +57,6 @@ pricing:
     - "-"
     button:
       label: Pide cita
-      link: "#contact"
-  - name: Aprendiz
-    price: 7 €
-    unit: ''
-    services:
-    - Recorte de Barba sin navaja
-    - "-"
-    button:
-      label: Pide Cita
       link: "#contact"
   - name: Maestro
     price: 10 €
