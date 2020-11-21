@@ -3,7 +3,7 @@ team:
   enable: true
   title: Nuestro Equipo
   team_member:
-  - name: Jose Arroyo
+  - name: Jose
     image_webp: images/team/team1-img.webp
     image: images/team/team1-img.jpg
     designation: Experto en Viajes
