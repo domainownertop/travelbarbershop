@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Nuestro Trabajo
   portfolio_item:
-  - name: Tag Design
+  - name: Corte
     image: images/portfolio/portfolio1-img.jpg
     image_webp: images/portfolio/portfolio1-img.webp
     categories:
