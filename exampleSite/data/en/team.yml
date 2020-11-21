@@ -12,12 +12,8 @@ team:
     social:
     - icon: ti-facebook
       link: https://es-es.facebook.com/jose.arroyofernandez
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
       link: www.linkedin.com/in/jose-arroyo-70183733
-    - icon: ti-dribbble
-      link: "#"
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
