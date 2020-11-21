@@ -3,6 +3,28 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
+  - name: Niños
+    price: 8 €
+    unit: ''
+    services:
+    - Cortar
+    - Hasta 8 años
+    - "-"
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: Jubilados
+    price: 10 €
+    unit: ''
+    services:
+    - Cortar
+    - A partir de 65 años
+    - "-"
+    - "-"
+    button:
+      label: Pide cita
+      link: "#contact"
   - name: Basico
     price: 12 €
     unit: ''
@@ -25,17 +47,6 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
-  - name: Niños
-    price: 8 €
-    unit: ''
-    services:
-    - Cortar
-    - Hasta 8 años
-    - "-"
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
   - name: Familia
     price: 18 €
     unit: ''
@@ -46,17 +57,6 @@ pricing:
     - "-"
     button:
       label: Pide Cita
-      link: "#contact"
-  - name: Jubilado
-    price: 10 €
-    unit: ''
-    services:
-    - Cortar
-    - Adultos de mas de 65 años
-    - "-"
-    - "-"
-    button:
-      label: Pide cita
       link: "#contact"
   - name: Barba
     price: 10 €
