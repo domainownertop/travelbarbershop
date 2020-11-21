@@ -26,12 +26,4 @@ team:
     designation: Barbero
     content: Alex es nuestro especialista en cortes especiales. Sus cortes te dejarán
       sin aliento!
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    social: []
