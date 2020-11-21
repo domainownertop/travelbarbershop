@@ -1,17 +1,16 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/about/feature-img.jpg
+  image_webp: images/about/feature-img.webp
   title: Tu Barber Shop de Confianza
   content: The Travel Barber Shop es el lugar perfecto donde cambiar tu imagen personal.
     Estamos especializados en Cortes Degradados y Cuidado de la Barba. Nuestros Equipo
     tiene una amplia formación
   feature_item:
-  - title: SEO Optimized
-    icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Cortes Degradados
+    icon: ti-user
+    content: Te harán sentir especial y diferente.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
