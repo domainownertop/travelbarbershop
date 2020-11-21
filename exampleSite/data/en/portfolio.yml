@@ -4,12 +4,12 @@ portfolio:
   title: Nuestro Trabajo
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/portfolio1-img.jpg
+    image_webp: images/portfolio/portfolio1-img.webp
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    - corte
+    content: ''
+    link: ''
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
