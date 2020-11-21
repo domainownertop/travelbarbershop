@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/banner-img.webp
+  bg_image: images/backgrounds/banner-img.jpg
   icon: ''
   title: The Travel Barbershop
   content: Especialistas en cortes y tratamientos para caballeros
