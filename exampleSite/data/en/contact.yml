@@ -12,8 +12,8 @@ contact:
   - icon: ti-email
     info: 'Email: hola@thetravelbarbershop.com'
   contact_form:
-    enable: false
-    form_action: "#"
+    enable: true
+    form_action: mailto:thetravelbarbershop@gmail.com
     name: Nombre
     email: Email
     subject: Asunto
