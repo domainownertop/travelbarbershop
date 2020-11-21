@@ -18,7 +18,8 @@ team:
     image_webp: images/team/team2-img.webp
     image: images/team/team2-img.jpg
     designation: Barbero
-    content: Hanier es nuestro experto en cortes y en cortes de barba.
+    content: Hanier es nuestro experto en Corte y Barba. No te arrepentirás con el
+      ritual de toallas!
     social:
     - icon: ti-facebook
       link: "#"
