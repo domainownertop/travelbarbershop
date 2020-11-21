@@ -14,10 +14,9 @@ feature:
   - title: Cuidado de la Barba
     icon: ti-star
     content: Nuestro ritual es toda una experiencia.
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Formación
+    icon: ti-medall
+    content: Nuestros barberos están ampliamente formados.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
