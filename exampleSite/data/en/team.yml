@@ -31,7 +31,8 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: Barbero
-    content: Alex es nuestro especialista en cortes especiales tales como degradados.
+    content: Alex es nuestro especialista en cortes especiales. Sus cortes te dejarán
+      sin alinento!
     social:
     - icon: ti-facebook
       link: "#"
