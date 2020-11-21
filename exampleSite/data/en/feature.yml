@@ -12,7 +12,7 @@ feature:
     icon: ti-star
     content: Nuestro producto estrella. Te sentirás especial.
   - title: Cuidado de la Barba
-    icon: ti-star
+    icon: ti-user
     content: Nuestro ritual es toda una experiencia.
   - title: Formación
     icon: ti-medall
