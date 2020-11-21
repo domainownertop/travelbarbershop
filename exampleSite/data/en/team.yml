@@ -27,8 +27,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Alex
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: images/team/team3-img.webp
+    image: images/team/team3-img.jpg
     designation: Barbero
     content: Alex es nuestro especialista en cortes especiales. Sus cortes te dejarán
       sin aliento!
