@@ -14,7 +14,7 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
-  - name: Top
+  - name: VIP
     price: 15 €
     unit: ''
     services:
