@@ -16,7 +16,7 @@ weight = 1
 [[menu.main]]
 name = "about"
 pre = "#"
-url = "acerca de"
+url = "about"
 weight = 1
 [[menu.main]]
 name = "portfolio"
@@ -26,24 +26,24 @@ weight = 2
 [[menu.main]]
 name = "team"
 pre = "#"
-url = "equipo"
+url = "team"
 weight = 3
 [[menu.main]]
 name = "pricing"
 pre = "#"
-url = "precios"
+url = "pricing"
 weight = 4
 [[menu.main]]
 name = "contact"
 pre = "#"
-url = "contacto"
+url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.svg"
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
