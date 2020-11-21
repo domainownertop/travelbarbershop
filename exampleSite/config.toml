@@ -81,8 +81,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.svg"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/thetravelbarbershop/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
