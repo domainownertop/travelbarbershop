@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Pide Cita
-  subtitle: ''
+  subtitle: Datos de Contacto
   content: ''
   contact_list:
   - icon: ti-location-pin
