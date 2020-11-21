@@ -53,8 +53,6 @@ pricing:
     services:
     - Corte de Adulto
     - Corte de niño (hasta 8 años)
-    - "-"
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
