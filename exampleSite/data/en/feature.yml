@@ -17,7 +17,7 @@ feature:
   - title: Formación
     icon: ti-medall
     content: Nuestros barberos están ampliamente formados.
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Trending
+    icon: ti-star
+    content: Estamos constantemente reinventando nuestros cortes para que estés a
+      la última moda.
