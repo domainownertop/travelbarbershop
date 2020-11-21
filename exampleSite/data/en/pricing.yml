@@ -3,6 +3,28 @@ pricing:
   enable: true
   title: Nuestros Precios
   pricing_table:
+  - name: Basico
+    price: 12 €
+    unit: ''
+    services:
+    - Cortar
+    - Lavar
+    - Peinar
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: Top
+    price: 15 €
+    unit: ''
+    services:
+    - Cortar
+    - Lavar
+    - Barba
+    - Peinar
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: Niños
     price: 8 €
     unit: ''
@@ -24,28 +46,6 @@ pricing:
     - "-"
     button:
       label: Pide cita
-      link: "#contact"
-  - name: Intermedio
-    price: 12 €
-    unit: ''
-    services:
-    - Cortar
-    - Lavar
-    - Peinar
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Top
-    price: 15 €
-    unit: ''
-    services:
-    - Cortar
-    - Lavar
-    - Barba
-    - Peinar
-    button:
-      label: Pide Cita
       link: "#contact"
   - name: Aprendiz
     price: 7 €
