@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Nuestros Precios
+  title: Nuestros Servicios
   pricing_table:
   - name: Niños
     price: 8 €
