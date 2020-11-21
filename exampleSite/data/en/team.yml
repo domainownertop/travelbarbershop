@@ -7,8 +7,8 @@ team:
     image_webp: images/team/team1-img.webp
     image: images/team/team1-img.jpg
     designation: Experto en Viajes
-    content: Te ofrecerá el mejor asesoramiento posible. Si necesitas un viaje, él
-      es tu hombre!
+    content: Te ofrecerá el mejor asesoramiento posible. Si buscas un viaje, él es
+      tu hombre!
     social:
     - icon: ti-facebook
       link: https://es-es.facebook.com/jose.arroyofernandez
