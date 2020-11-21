@@ -24,14 +24,13 @@ portfolio:
     - corte
     content: ''
     link: ''
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+  - name: Corte
+    image: images/portfolio/portfolio4-img.jpg
+    image_webp: images/portfolio/portfolio4-img.webp
     categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    - corte
+    content: ''
+    link: ''
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
