@@ -9,7 +9,7 @@ feature:
     tiene una amplia formación
   feature_item:
   - title: Cortes Degradados
-    icon: ti-user
+    icon: ti-star
     content: Nuestro producto estrella. Te sentirás especial.
   - title: Cuidado de la Barba
     icon: ti-star
