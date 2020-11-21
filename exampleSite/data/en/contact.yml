@@ -12,7 +12,7 @@ contact:
   - icon: ti-email
     info: 'Email: thetravelbarbershop@gmail.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "<form action=”mailto:thetravelbarbershop@gmail.com”  method=”POST”
       \ enctype=”multipart/form-data”  name=”Email”>  Name:<br>  <input type=”Message”
       size=”24″ name=”Name”><br><br>  Message:<br> <textarea name=”Name” rows=”4″
