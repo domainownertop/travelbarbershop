@@ -31,3 +31,9 @@ portfolio:
     - corte
     content: ''
     link: ''
+  - name: ''
+    image: images/portfolio/portfolio5-img.jpg
+    image_webp: images/portfolio/portfolio5-img.webp
+    categories:
+    - barba
+    link: ''
