@@ -4,9 +4,10 @@ portfolio:
   title: Nuestro Trabajo
   portfolio_item:
   - name: ''
-    image: ''
-    image_webp: ''
-    categories: ''
+    image: images/portfolio/portfolio8-img.jpg
+    image_webp: images/portfolio/portfolio8-img.jpg
+    categories:
+    - barba
     content: ''
     link: ''
   - name: ''
