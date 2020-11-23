@@ -4,13 +4,6 @@ portfolio:
   title: Nuestro Trabajo
   portfolio_item:
   - name: ''
-    image: images/portfolio/portfolio8-img.jpg
-    image_webp: images/portfolio/portfolio8-img.webp
-    categories:
-    - barba
-    content: ''
-    link: ''
-  - name: ''
     image: images/portfolio/portfolio1-img.jpg
     image_webp: images/portfolio/portfolio1-img.webp
     categories:
@@ -56,5 +49,12 @@ portfolio:
     image_webp: images/portfolio/portfolio7-img.webp
     categories:
     - corte
+    content: ''
+    link: ''
+  - name: ''
+    image: images/portfolio/portfolio8-img.jpg
+    image_webp: images/portfolio/portfolio8-img.webp
+    categories:
+    - barba
     content: ''
     link: ''
