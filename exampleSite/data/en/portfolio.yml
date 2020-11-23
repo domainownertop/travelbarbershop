@@ -37,3 +37,10 @@ portfolio:
     categories:
     - barba
     link: ''
+  - name: ''
+    image: images/portfolio/portfolio6-img.jpg
+    image_webp: images/portfolio/portfolio5-img.webp
+    categories:
+    - corte
+    content: ''
+    link: ''
