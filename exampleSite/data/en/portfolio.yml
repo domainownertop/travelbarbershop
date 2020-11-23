@@ -4,6 +4,12 @@ portfolio:
   title: Nuestro Trabajo
   portfolio_item:
   - name: ''
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: ''
     image: images/portfolio/portfolio1-img.jpg
     image_webp: images/portfolio/portfolio1-img.webp
     categories:
@@ -39,7 +45,7 @@ portfolio:
     link: ''
   - name: ''
     image: images/portfolio/portfolio6-img.jpg
-    image_webp: images/portfolio/portfolio5-img.webp
+    image_webp: images/portfolio/portfolio6-img.webp
     categories:
     - corte
     content: ''
