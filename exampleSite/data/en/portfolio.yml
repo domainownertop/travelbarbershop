@@ -44,3 +44,10 @@ portfolio:
     - corte
     content: ''
     link: ''
+  - name: ''
+    image: images/portfolio/portfolio7-img.jpg
+    image_webp: images/portfolio/portfolio7-img.webp
+    categories:
+    - corte
+    content: ''
+    link: ''
