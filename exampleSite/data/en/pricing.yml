@@ -11,6 +11,7 @@ pricing:
     - Hasta 8 años
     - "-"
     - "-"
+    - <script type="text/javascript" src="https://booksy.com/widget/code.js?id=10028&country=es&lang=es"></script>
     button:
       label: Pide Cita
       link: "#contact"
