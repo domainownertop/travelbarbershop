@@ -18,6 +18,7 @@
 					{{ range site.Menus.main }}
 					<li class="nav-item">
             <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+          <script type="text/javascript" src="https://booksy.com/widget/code.js?id=10028&country=es&lang=es"></script>
 					</li>
 					{{ end }}
 				</ul>
@@ -42,8 +43,6 @@
 					{{ end }}
 				</select>
 				{{ end }}
-        <!-- Booksy Button -->
-        <script type="text/javascript" src="https://booksy.com/widget/code.js?id=10028&country=es&lang=es"></script>
 			</div>
 		</nav>
 	</div>
