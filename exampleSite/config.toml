@@ -9,12 +9,12 @@ title = "The Travel Barbershop"
 [Languages.en]
 contentDir = "content/english"
 copyright = ""
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
+home = "Inicio"
+languageCode = "es"
+languageName = "Es"
 weight = 1
 [[menu.main]]
-name = "about"
+name = "nosotros"
 pre = "#"
 url = "about"
 weight = 1
@@ -24,24 +24,24 @@ pre = "#"
 url = "portfolio"
 weight = 2
 [[menu.main]]
-name = "team"
+name = "equipo"
 pre = "#"
 url = "team"
 weight = 3
 [[menu.main]]
-name = "pricing"
+name = "precios"
 pre = "#"
 url = "pricing"
 weight = 4
 [[menu.main]]
-name = "contact"
+name = "contacto"
 pre = "#"
 url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
-google_analytics_id = ""
+google_analytics_id = "G-K16Q6L024Z"
 logo = "images/logo.svg"
 post_share = false
 [params.cookies]
