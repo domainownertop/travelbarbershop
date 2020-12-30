@@ -10,7 +10,6 @@ pricing:
     - Cortar
     - Hasta 8 años
     - "-"
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
@@ -21,9 +20,18 @@ pricing:
     - Cortar
     - A partir de 65 años
     - "-"
-    - "-"
     button:
       label: Pide cita
+      link: "#contact"
+  - name: Repasar
+    price: 10 €
+    unit: ''
+    services:
+    - Cortar
+    - Antes de 15 días
+    - "-"
+    button:
+      label: Pide Cita
       link: "#contact"
   - name: Basico
     price: 12 €
