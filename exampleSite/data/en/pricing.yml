@@ -30,8 +30,8 @@ pricing:
     unit: ''
     services:
     - Cortar
-    - Lavar
-    - Peinar
+    - "-"
+    - "-"
     - "-"
     button:
       label: Pide Cita
@@ -42,8 +42,19 @@ pricing:
     services:
     - Cortar
     - Lavar
-    - Barba
     - Peinar
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: VIP + Barba
+    price: 18 €
+    unit: ''
+    services:
+    - Cortar
+    - Lavar
+    - Peinar
+    - Barba
     button:
       label: Pide Cita
       link: "#contact"
@@ -53,6 +64,8 @@ pricing:
     services:
     - Corte de Adulto
     - Corte de niño (hasta 8 años)
+    - "-"
+    - "-"
     button:
       label: Pide Cita
       link: "#contact"
@@ -62,15 +75,8 @@ pricing:
     services:
     - Recorte de barba con navaja
     - Ritual con toallas
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Mascarilla
-    price: 15 €
-    unit: ''
-    services:
-    - Piling Facial
-    - Solo con cita previa
+    - "-"
+    - "-"
     button:
       label: Pide Cita
       link: "#contact"
