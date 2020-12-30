@@ -3,47 +3,6 @@ pricing:
   enable: true
   title: Nuestros Servicios
   pricing_table:
-  - name: Niños
-    price: 8 €
-    unit: ''
-    services:
-    - Cortar
-    - Hasta 8 años
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Jubilados
-    price: 10 €
-    unit: ''
-    services:
-    - Cortar
-    - A partir de 65 años
-    - "-"
-    button:
-      label: Pide cita
-      link: "#contact"
-  - name: Repasar
-    price: 10 €
-    unit: ''
-    services:
-    - Cortar
-    - Antes de 15 días
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Basico
-    price: 12 €
-    unit: ''
-    services:
-    - Cortar
-    - "-"
-    - "-"
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
   - name: VIP
     price: 15 €
     unit: ''
@@ -83,6 +42,46 @@ pricing:
     services:
     - Recorte de barba con navaja
     - Ritual con toallas
+    - "-"
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: Niños
+    price: 8 €
+    unit: ''
+    services:
+    - Cortar
+    - Hasta 8 años
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: Jubilados
+    price: 10 €
+    unit: ''
+    services:
+    - Cortar
+    - A partir de 65 años
+    - "-"
+    button:
+      label: Pide cita
+      link: "#contact"
+  - name: Repasar
+    price: 10 €
+    unit: ''
+    services:
+    - Cortar
+    - Antes de 15 días
+    - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
+  - name: Basico
+    price: 12 €
+    unit: ''
+    services:
+    - Cortar
     - "-"
     - "-"
     button:
