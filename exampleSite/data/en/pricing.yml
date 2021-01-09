@@ -40,8 +40,8 @@ pricing:
     price: 17.95 €
     unit: ''
     services:
-    - Corte de Adulto
-    - Corte de niño (hasta 8 años)
+    - Cortar Adulto
+    - Cortar niño (hasta 8 años)
     - "-"
     - "-"
     button:
