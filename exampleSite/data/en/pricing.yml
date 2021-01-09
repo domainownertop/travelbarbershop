@@ -56,12 +56,12 @@ pricing:
     button:
       label: Pide Cita
       link: "#contact"
-  - name: Niños
-    price: 8.95 €
+  - name: Repasar
+    price: 9.95 €
     unit: ''
     services:
-    - Cortar
-    - Hasta 8 años
+    - Sólo Cortar
+    - Antes de 15 días
     button:
       label: Pide Cita
       link: "#contact"
@@ -74,12 +74,12 @@ pricing:
     button:
       label: Pide cita
       link: "#contact"
-  - name: Repasar
-    price: 9.95 €
+  - name: Niños
+    price: 8.95 €
     unit: ''
     services:
-    - Sólo Cortar
-    - Antes de 15 días
+    - Cortar
+    - Hasta 8 años
     button:
       label: Pide Cita
       link: "#contact"
