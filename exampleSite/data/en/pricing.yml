@@ -11,8 +11,11 @@ pricing:
     - "-"
     - "-"
     - "-"
+    button:
+      label: Pide Cita
+      link: "#contact"
   - name: VIP
-    price: 15 €
+    price: 14.95 €
     unit: ''
     services:
     - Cortar
@@ -23,7 +26,7 @@ pricing:
       label: Pide Cita
       link: "#contact"
   - name: VIP + Barba
-    price: 18 €
+    price: 17.95 €
     unit: ''
     services:
     - Cortar
@@ -34,7 +37,7 @@ pricing:
       label: Pide Cita
       link: "#contact"
   - name: Familia
-    price: 18 €
+    price: 17.95 €
     unit: ''
     services:
     - Corte de Adulto
@@ -45,43 +48,38 @@ pricing:
       label: Pide Cita
       link: "#contact"
   - name: Barba
-    price: 10 €
+    price: 9.95 €
     unit: ''
     services:
     - Recorte de barba con navaja
     - Ritual con toallas
-    - "-"
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
   - name: Niños
-    price: 8 €
+    price: 8.95 €
     unit: ''
     services:
     - Cortar
     - Hasta 8 años
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
   - name: Jubilados
-    price: 10 €
+    price: 9.95 €
     unit: ''
     services:
     - Cortar
     - A partir de 65 años
-    - "-"
     button:
       label: Pide cita
       link: "#contact"
   - name: Repasar
-    price: 10 €
+    price: 9.95 €
     unit: ''
     services:
-    - Cortar
+    - Sólo Cortar
     - Antes de 15 días
-    - "-"
     button:
       label: Pide Cita
       link: "#contact"
