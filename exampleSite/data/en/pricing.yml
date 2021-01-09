@@ -3,6 +3,14 @@ pricing:
   enable: true
   title: Nuestros Servicios
   pricing_table:
+  - name: Basico
+    price: 12.95 €
+    unit: ''
+    services:
+    - Cortar
+    - "-"
+    - "-"
+    - "-"
   - name: VIP
     price: 15 €
     unit: ''
@@ -73,16 +81,6 @@ pricing:
     services:
     - Cortar
     - Antes de 15 días
-    - "-"
-    button:
-      label: Pide Cita
-      link: "#contact"
-  - name: Basico
-    price: 12 €
-    unit: ''
-    services:
-    - Cortar
-    - "-"
     - "-"
     button:
       label: Pide Cita
