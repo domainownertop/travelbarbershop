@@ -20,10 +20,3 @@ team:
     content: Hanier es nuestro experto en Corte y Barba. No te arrepentirás con el
       ritual de toallas!
     social: []
-  - name: Alex
-    image_webp: images/team/team3-img.webp
-    image: images/team/team3-img.jpg
-    designation: Barbero
-    content: Alex es nuestro especialista en cortes especiales. Sus cortes te dejarán
-      sin aliento!
-    social: []
